@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MichaelVillaizan/test-finmaq.git/static/css/main.073c9b0a.css",
+    "main.js": "/MichaelVillaizan/test-finmaq.git/static/js/main.3d3ca216.js",
+    "static/js/787.45fb6c2b.chunk.js": "/MichaelVillaizan/test-finmaq.git/static/js/787.45fb6c2b.chunk.js",
+    "index.html": "/MichaelVillaizan/test-finmaq.git/index.html",
+    "main.073c9b0a.css.map": "/MichaelVillaizan/test-finmaq.git/static/css/main.073c9b0a.css.map",
+    "main.3d3ca216.js.map": "/MichaelVillaizan/test-finmaq.git/static/js/main.3d3ca216.js.map",
+    "787.45fb6c2b.chunk.js.map": "/MichaelVillaizan/test-finmaq.git/static/js/787.45fb6c2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3d3ca216.js"
+  ]
+}
